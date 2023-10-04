@@ -1,2 +1,2 @@
 # CV
-Labs from Computer Vision
+Labs for "Computer Vision"
