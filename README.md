@@ -1,2 +1,2 @@
 # CV
-Labs for "Computer Vision", NTUU KPI, IASA, AI Department, 2023-2024.
+Labs for "Computer vision", NTUU KPI, IASA, AI Department, 2023-2024.
